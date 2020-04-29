@@ -17,3 +17,27 @@ programming teams.
 - Integration Testing is conducted by ___Game Testers___.
 - Is is both a type of blackbox and whitebox testing.
 ___________________________________________________________________________________________________________________________________________
+
+
+System Testing
+---------------------------------
+*What is system testing?
+System testing is the execution of the software in its final configuration, including
+integration with other software and hardware systems
+*System testing is conducted by the Testers
+*It is a type of blackbox testing
+
+______________________________________________________________________
+
+Acceptance Testing
+---------------------------------
+*What is acceptance testing?
+Is to evaluate and validate that the system’s
+functionality meets the customer’s requirements, standards and business needs before
+the final delivery
+*It is conducted by customers and end-users.
+*It is a type of whitebox testing.
+
+
+
+Updated by Braylon Tan Chong Sheng
